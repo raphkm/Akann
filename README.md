@@ -1,5 +1,5 @@
 # Akann
-This is repository for week 2 project. 
+This is repository for week 2 project.
 Akan
 Akan Project
 This is a apllication on my live website that connects you further to  your Ghanaan roots. When you enter you birthday details( Inclusive of Year born and month) you will get your Akan name together with the day of the week your birthday will be. 

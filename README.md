@@ -10,7 +10,7 @@ Setup/Installation Requirements
 Clone this repository to your device and open the file to lead ou to the website
 
 Technologies Used
-Languages used are HTML, CSS & JavaScript
+Languages used are HTML, CSS & JavaScript.
 
 Contacts
  Incase of any communication required My Number - 0717976042 Email - rkariuki415@gmail.com

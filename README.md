@@ -2,13 +2,12 @@
 This is repository for week 2 project. 
 Akan
 Akan Project
-This application allows you to have an Akan name depending on your birth day,month and gender
-Live link "https://raphkm.github.io/Akann/Desktop/css-java/index.html"
+This application allows you to know your Akan name for professional and non-professional purposes. It takes details from your date of birth, year and from this information the application tells you your day of birth together with your Akan name.
+
+Live link "https://raphkm.github.io/Akann/index.html"
 
 Setup/Installation Requirements
-1.Enter your name 
-2.Followed by your birthday( month&year) 
-3.Press the submit button (You will receive your Akan name after submission of your details)
+Clone this repository to your device and open the file to lead ou to the website
 
 Technologies Used
 Languages used are HTML, CSS & JavaScript

@@ -2,7 +2,7 @@
 This is repository for week 2 project. 
 Akan
 Akan Project
-This application allows you to know your Akan name for professional and non-professional purposes. It takes details from your date of birth, year and from this information the application tells you your day of birth together with your Akan name.
+This is a apllication on my live website that connects you further to  your Ghanaan roots. When you enter you birthday details( Inclusive of Year born and month) you will get your Akan name together with the day of the week your birthday will be. 
 
 Live link "https://raphkm.github.io/Akann/index.html"
 

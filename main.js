@@ -19,7 +19,7 @@ function results() {
         alert("Invalid month");
         return false;
     }
-    if(year <1900 || year >2030){
+    if(year <1900 || year >2020){
             alert("invalid year");
             return false;
     }
